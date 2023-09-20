@@ -11,13 +11,18 @@
     <div class="container">           
         <div class="rectangle-one">
             <form action="">
-                <label for="name" class="label">Full name</label>
-                <input type="text" placeholder="Your full name">
-                <label for="email" class="label">Email <address></address></label>
-                <input type="email" name="email" id="email" placeholder="Your email">
-                <div class="select-wrapper"></div>
-                <textarea name="message"></textarea>
-                <button type="submit">Send message</button>        
+            <label for="name" class="label">Full name</label>
+            <input type="text" placeholder="Your full name">
+            <label for="email" class="label">Email<address></address></label>
+            <input type="email" name="email" id="email" placeholder="Your email">                        
+            <div class="select-wrapper"></div>
+                <label for="select" class="label">Message regarding</label>
+                <select name="regarding" class="select" id="select"></select>
+                <option value="ducks">Ducks</option>
+                <option value="svans">Svans</option>
+                <option value="geese">Geese</option>
+            <textarea name="message"></textarea>
+            <button type="submit" class="btn">Send message</button>        
         </form>    
         </div>
         <div class="rectangle-two"> </div>

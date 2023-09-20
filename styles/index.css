@@ -19,8 +19,8 @@
     display: flex;  
     position: relative;
     flex-direction: column;  
-    background-color: #BE0909;  
-}   
+    background-color: #BE0909;     
+}  
 
 .rectangle-two {
     width: 290px;
@@ -36,5 +36,13 @@ img {
     align-self: flex-end;
     top: 20px;
     right: 130px;
+}
+
+.label, .btn {
+    display: flex;
+
+}
+.select {
+    -webkit-appearance: none;
 }
  .btn {}
