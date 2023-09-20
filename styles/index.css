@@ -38,11 +38,18 @@ img {
     right: 130px;
 }
 
-.label, .btn {
-    display: flex;
+.label,  .btn {
+    display: flex;    
+    background-color: #BE0909;
 
 }
 .select {
     -webkit-appearance: none;
+    background-color: #BE0909;
 }
- .btn {}
+input, textarea {
+    background-color: #BE0909;
+}
+
+
+.btn {}
