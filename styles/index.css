@@ -41,14 +41,20 @@ img {
 .label,  .btn {
     display: flex;    
     background-color: #BE0909;
+    margin-top: 15px;
+    margin-left: 15px;
 
 }
 .select {
     -webkit-appearance: none;
     background-color: #BE0909;
+    margin-top: 15px;
+    margin-left: 15px;
 }
 input, textarea {
     background-color: #BE0909;
+    margin-top: 15px;
+    margin-left: 15px;
 }
 
 
