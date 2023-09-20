@@ -49,13 +49,12 @@ img {
 .select {
     -webkit-appearance: none;
     background-color: #BE0909;
-    margin-top: 15px;
     margin-left: 15px;
     color: beige;
 }
-input, textarea {
+input, textarea {    
     background-color: #BE0909;
-    margin-top: 15px;
+    margin-top: 5px;
     margin-left: 15px;
     color: beige;
     
