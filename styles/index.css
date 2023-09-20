@@ -43,6 +43,7 @@ img {
     background-color: #BE0909;
     margin-top: 15px;
     margin-left: 15px;
+    color: beige;
 
 }
 .select {
@@ -50,11 +51,14 @@ img {
     background-color: #BE0909;
     margin-top: 15px;
     margin-left: 15px;
+    color: beige;
 }
 input, textarea {
     background-color: #BE0909;
     margin-top: 15px;
     margin-left: 15px;
+    color: beige;
+    
 }
 
 
