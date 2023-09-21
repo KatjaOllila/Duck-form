@@ -29,6 +29,7 @@ body {
     position: relative;
     background-color: #FFB039;   
 }
+
 img {
     position: absolute;
     transform: scale(0.8);
