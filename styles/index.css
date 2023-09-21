@@ -59,6 +59,9 @@ input, textarea {
     margin-top: 5px;
     margin-left: 15px;
     color: beige;
+    border-top: none;
+    border-right: none;
+    border-left: none;
     
 }
 
