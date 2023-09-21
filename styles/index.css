@@ -53,8 +53,9 @@ img {
     border-top: none;
     border-right: none;
     border-left: none;
+    border-bottom: 1px solid black;
 }
-input, textarea {    
+input, textarea {     
     background-color: #BE0909;
     margin-top: 5px;
     margin-left: 15px;
@@ -62,8 +63,10 @@ input, textarea {
     border-top: none;
     border-right: none;
     border-left: none;
+    border-bottom: 1px solid black;
     
 }
+
 
 
 .btn {}
