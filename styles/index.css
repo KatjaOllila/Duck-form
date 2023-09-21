@@ -40,7 +40,7 @@ img {
 .label,  .btn {
     display: flex;    
     background-color: #BE0909;
-    margin-top: 15px;
+    margin-top: 20px;
     margin-left: 15px;
     color: beige;
     font-family: 'Mooli', sans-serif;
@@ -51,6 +51,7 @@ img {
     -webkit-appearance: none;    
     background-color: #BE0909;
     margin-left: 15px;
+    margin-bottom: 15px;
     color: beige;
     border-top: none;
     border-right: none;
@@ -63,6 +64,7 @@ input, textarea {
     background-color: #BE0909;
     margin-top: 5px;
     margin-left: 15px;
+    margin-bottom: 15px;
     color: beige;
     border-top: none;
     border-right: none;
