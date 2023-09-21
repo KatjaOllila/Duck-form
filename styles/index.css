@@ -43,6 +43,8 @@ img {
     margin-top: 15px;
     margin-left: 15px;
     color: beige;
+    font-family: 'Mooli', sans-serif;
+    font-size: 13px;
 
 }
 .select {
@@ -54,6 +56,8 @@ img {
     border-right: none;
     border-left: none;
     border-bottom: 1px solid black;
+    font-family: 'Mooli', sans-serif;
+    
 }
 input, textarea {     
     background-color: #BE0909;
@@ -64,6 +68,8 @@ input, textarea {
     border-right: none;
     border-left: none;
     border-bottom: 1px solid black;
+    font-family: 'Mooli', sans-serif;
+    
     
 }
 
