@@ -70,11 +70,13 @@ input, textarea {
     border-right: none;
     border-left: none;
     border-bottom: 1px solid black;
-    font-family: 'Mooli', sans-serif;
+    font-family: 'Mooli', sans-serif;   
     
+}
+input:hover, button:hover, textarea:hover, select:hover {
+    background-color: #e84242;
     
 }
 
 
 
-.btn {}
